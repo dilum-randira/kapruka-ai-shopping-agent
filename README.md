@@ -1,3 +1,6 @@
+<img width="1774" height="887" alt="kapruka img1" src="https://github.com/user-attachments/assets/9d34b863-98af-464b-a773-b214a732ab99" />
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
